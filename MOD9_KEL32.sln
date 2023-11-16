@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD9_KEL32", "MOD9_KEL32\MOD9_KEL32.csproj", "{5CE160EB-7601-414F-8EFA-B452FFD15EDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CE160EB-7601-414F-8EFA-B452FFD15EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE160EB-7601-414F-8EFA-B452FFD15EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE160EB-7601-414F-8EFA-B452FFD15EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE160EB-7601-414F-8EFA-B452FFD15EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9E205F-CF25-4F57-A2FA-019AC171F980}
+	EndGlobalSection
+EndGlobal

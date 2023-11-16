@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMvOAEpqLpvAMP/GC6gHTilh1JM9oCgvPyZstXzadI6OCsMAVEJBHgUAGxbUYe5jBzlefT/DcWNEnj/0D4Y6Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\M12GUN\\source\\repos\\MOD9_KEL32\\MOD9_KEL32\\MOD9_KEL32\\MOD9_KEL32.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M12GUN\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.13\\microsoft.aspnetcore.jsonpatch.7.0.13.nupkg.sha512",
+    "C:\\Users\\M12GUN\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.13\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.13.nupkg.sha512",
+    "C:\\Users\\M12GUN\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\M12GUN\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\M12GUN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\M12GUN\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\M12GUN\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\M12GUN\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\M12GUN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\M12GUN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\M12GUN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\M12GUN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

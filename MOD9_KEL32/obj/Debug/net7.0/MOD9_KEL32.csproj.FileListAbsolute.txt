@@ -1,0 +1,70 @@
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\appsettings.json
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\MOD9_KEL32.exe
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\MOD9_KEL32.deps.json
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\MOD9_KEL32.runtimeconfig.json
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\MOD9_KEL32.dll
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\MOD9_KEL32.pdb
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.csproj.AssemblyReference.cache
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.AssemblyInfoInputs.cache
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.AssemblyInfo.cs
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.csproj.CoreCompileInputs.cache
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets\msbuild.MOD9_KEL32.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets\msbuild.build.MOD9_KEL32.props
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MOD9_KEL32.props
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MOD9_KEL32.props
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\scopedcss\bundle\MOD9_KEL32.styles.css
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.csproj.CopyComplete
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.dll
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\refint\MOD9_KEL32.dll
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.pdb
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.genruntimeconfig.cache
+C:\Users\M12GUN\source\repos\RPLBK MOD 8_KEL32_PERCOBAAN2\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\ref\MOD9_KEL32.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.csproj.AssemblyReference.cache
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.AssemblyInfoInputs.cache
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.AssemblyInfo.cs
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.csproj.CoreCompileInputs.cache
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\refint\MOD9_KEL32.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.pdb
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\appsettings.json
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\MOD9_KEL32.exe
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\MOD9_KEL32.deps.json
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\MOD9_KEL32.runtimeconfig.json
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\MOD9_KEL32.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\MOD9_KEL32.pdb
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets\msbuild.MOD9_KEL32.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets\msbuild.build.MOD9_KEL32.props
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MOD9_KEL32.props
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MOD9_KEL32.props
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\scopedcss\bundle\MOD9_KEL32.styles.css
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.csproj.CopyComplete
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\MOD9_KEL32.genruntimeconfig.cache
+C:\Users\M12GUN\source\repos\MOD9_KEL32\MOD9_KEL32\MOD9_KEL32\obj\Debug\net7.0\ref\MOD9_KEL32.dll
